@@ -1,0 +1,2 @@
+# animatedWeatherIcons
+CSS practical
